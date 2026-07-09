@@ -1,0 +1,1 @@
+alert("Website E-Commerce Berhasil Dibuka");
